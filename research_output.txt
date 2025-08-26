@@ -1,0 +1,43 @@
+--- Travel Details Output ---
+Timestamp: 2025-07-19 18:40:29
+
+{"flight_details": "April 2024, multiple flights to Brussels, Vienna, Madrid","destination": "Belgium, Austria, Spain","duration_days": 5,"budget_usd": 10000,"activities": ["Visit the Louvre Museum, Paris","Explore the art scene in Vienna, including the MuseumsQuartier and Kunsthistorisches Museum","Attend a football match in Spain or Belgium"],"housing": "Stay at the Hotel Amigo (Brussels), The Ritz-Carlton (Vienna), and Hotel Villa Magna (Madrid)","dining_preferences": ["Dinner at The Fat Duck (Brussels)", "Dinner at Steirereck (Vienna)", "Dinner at DiverXO (Madrid)"],"transportation": "Train between cities","sources_used": ["Michelin Restaurant Guide","Luxury Hotel Reviews 2024","Art Attractions Guide 2024"]}
+
+--- Travel Details Output ---
+Timestamp: 2025-07-19 18:47:54
+
+{"flight_details": "Flight details not provided.", "destination": "Spain, Switzerland, London", "duration_days": 7, "budget_usd": 10000, "activities": ["sports events", "art", "museums", "attractions"], "housing": "Luxury hotels only", "dining_preferences": ["fine dining"], "transportation": "Luxury car rentals", "sources_used": ["finedininglovers.com", "luxuryhotel.com", "carrental.com"]}
+
+--- Travel Details Output ---
+Timestamp: 2025-07-19 18:51:10
+
+{
+  "flight_details": "Fly to Spain first, then Switzerland, and finally London. Returning home from London.",
+  "destination": "Spain, Switzerland, London",
+  "duration_days": 7,
+  "budget_usd": 10000,
+  "activities": ["Attend sports events", "Visit art museums", "Explore local attractions"],
+  "housing": "Luxury hotels are booked in each country.",
+  "dining_preferences": [
+    "El Celler de Can Roca (Spain)",
+    "Restaurant de l'Hôtel de Ville (Switzerland)",
+    "The Fat Duck (London)"
+  ],
+  "transportation": "Rent luxurious cars in each country.",
+  "sources_used": [
+    "Web search for dining options.",
+    "Web search for luxury hotels.",
+    "Web search for car rentals."
+  ]
+}
+
+--- Travel Details Output ---
+Timestamp: 2025-07-19 18:54:38
+
+{ "flight_details": "Flight from Toronto to Madrid on December 1, 2023 and return from London on December 8, 2023 with Air Canada.", "destination": "Spain, Switzerland, London", "duration_days": 7, "budget_usd": 10000, "activities": [ "La Liga Match at Santiago Bernabéu Stadium, Madrid", "Exhibition at Museo del Prado, Madrid", "Explore the Swiss National Museum, Zurich", "Visit the Louvre Museum in Paris", "Dinner at Michelin-starred restaurant in London" ], "housing": "Hotel Ritz Madrid, Madrid; The Dolder Grand, Zurich; The Dorchester, London", "dining_preferences": [ "DiverXO, Madrid", "Restaurant Kronenhalle, Zurich", "Restaurant Gordon Ramsay, London" ], "transportation": "Luxury car rental options: BMW 7 Series in Spain, Mercedes-Benz S-Class in Switzerland, Bentley Continental GT in London", "sources_used": ["Air Canada website", "Tripadvisor", "Booking.com", "Luxury Car Rental Agencies"] }
+
+--- Travel Details Output ---
+Timestamp: 2025-07-19 18:57:18
+
+{"flight_details": "Toronto to Spain: Depart on October 24, 2023; Loaded with activities in Spain, Switzerland, and London for a week.", "destination": "Spain, Switzerland, London", "duration_days": 7, "budget_usd": 10000, "activities": ["FC Barcelona Match at Camp Nou on October 25, 2023", "Gala concert at Tonhalle Zurich on October 27, 2023", "Premier League Match at Stamford Bridge, London on October 29, 2023"], "housing": ["Hotel Arts Barcelona, Spain", "Baur Au Lac, Zurich, Switzerland", "The Dorchester, London, UK"], "dining_preferences": ["Nobu, Barcelona, Spain", "The Dolder Grand, Zurich, Switzerland", "Alain Ducasse at The Dorchester, London, UK"], "transportation": ["Rent a Mercedes-Benz S-Class in Barcelona, Spain", "Rent a Rolls Royce Phantom in Zurich, Switzerland", "Rent a Bentley Mulsanne in London, UK"], "sources_used": ["Google Search", "TripAdvisor", "Booking.com"]}
+
