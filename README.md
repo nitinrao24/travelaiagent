@@ -84,8 +84,7 @@ Expand GUI or web app frontend for non-technical users.
 Use a database for persistent memory across multiple travel plans.
 
 ## 📂 Project Structure
-plaintext
-Copy code
+```plaintext
 travel-ai-agent/
 │── __pycache__/            # Compiled cache files
 │── main.py                 # Entry point for running the agent
