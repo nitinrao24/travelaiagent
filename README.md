@@ -41,33 +41,32 @@ Day 4: Harajuku fashion, Meiji Shrine, Shibuya nightlife
 Day 5: Souvenir shopping and departure
 
 All results are saved automatically in research_output.txt.
-
+```
 🚀 How to Run
 1. Clone the Repository
-bash
-Copy code
+```bash
 git clone <repo-url>
 cd travel-ai-agent
+```
 2. Create and Activate Virtual Environment
-bash
-Copy code
+```bash
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
+```
 3. Install Dependencies
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 4. Add Your API Key
 Create a .env file in the project root:
-
-env
-Copy code
+```bash
 OPENAI_API_KEY=your_api_key_here
+```
 5. Run the Agent
-bash
-Copy code
+```bash
 python main.py
+```
 📈 Key Insights
 Enforcing structured outputs with Pydantic reduces LLM unpredictability.
 
