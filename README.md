@@ -42,7 +42,7 @@ Day 5: Souvenir shopping and departure
 
 All results are saved automatically in research_output.txt.
 ```
-🚀 How to Run
+## 🚀 How to Run
 1. Clone the Repository
 ```bash
 git clone <repo-url>
@@ -67,14 +67,14 @@ OPENAI_API_KEY=your_api_key_here
 ```bash
 python main.py
 ```
-📈 Key Insights
+## 📈 Key Insights
 Enforcing structured outputs with Pydantic reduces LLM unpredictability.
 
 Saving results into research_output.txt makes itineraries reproducible and trackable.
 
 Custom tools in tools.py allow the agent to perform function calls instead of just generating free-form text.
 
-💡 Next Steps
+## 💡 Next Steps
 Integrate real APIs (Google Maps, Yelp) for live results.
 
 Add budget constraints and cost breakdowns.
@@ -83,7 +83,7 @@ Expand GUI or web app frontend for non-technical users.
 
 Use a database for persistent memory across multiple travel plans.
 
-📂 Project Structure
+## 📂 Project Structure
 plaintext
 Copy code
 travel-ai-agent/
